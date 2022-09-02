@@ -1,0 +1,121 @@
+[
+    {
+       "titulo":"avengers (2012)",
+       "calificacion":"8.1",
+       "director":"Joss Whedon",
+        "actores":"Robert Downey Jr., Chris Evans, Chris Hemsworth, Scarlett Johansson, Jeremy Renner, Mark Ruffalo, Samuel L. Jackson , Tom Hiddleston",
+         "fecha":"1 May 2015",
+          "duracion":"2h21min",
+           "img":"images/uploads/mv1.jpg",
+           "descripcion": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity..."
+
+    },
+    {
+       "titulo":"captain america: the winter soldier (2014)",
+       "calificacion":"7.8",
+       "director":"Anthony Russo, Joe Russo",
+        "actores":"Chris Evans, Samuel L. Jackson, Scarlett Johansson, Robert Redford, Sebastian Stan",
+         "fecha":"1 May 2015",
+          "duracion":"2h16min",
+           "img":"images/uploads/mv2.jpg",
+           "descripcion": "As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history: an assassin known as the Winter Soldier."
+
+    },
+
+    {
+      "titulo":"guardians of the galaxy (2014)",
+      "calificacion":"8.0",
+      "director":"James Gunn",
+       "actores":"Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel, Bradley Cooper",
+        "fecha":"1 May 2015",
+         "duracion":"2h1min",
+          "img":"images/uploads/mv6.jpg",
+          "descripcion": "A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe."
+
+   },
+
+    {
+       "titulo":"avengers: age of ultron (2015)",
+       "calificacion":"7.3",
+       "director":"Joss Whedon",
+        "actores":"Robert Downey Jr., Chris Evans, Chris Hemsworth, Scarlett Johansson, Jeremy Renner, Mark Ruffalo, Aaron Taylor-Johnson, Elizabeth Olsen, James Spader",
+         "fecha":"1 May 2015",
+          "duracion":"2h21min",
+           "img":"images/uploads/mv3.jpg",
+           "descripcion": "When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and it's up to Earth's mightiest heroes to stop the villainous Ultron from enacting his terrible plan."
+
+    },
+
+    {
+      "titulo":"ant-man (2015)",
+      "calificacion":"7.3",
+      "director":"Peyton Reed",
+       "actores":"Paul Rudd, Evangeline Lilly, Corey Stoll, Bobby Cannavale, Michael Peña, Michael Douglas",
+        "fecha":"1 May 2015",
+         "duracion":"1h57min",
+          "img":"images/uploads/mv7.jpg",
+          "descripcion": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, pull off a plan that will save the world."
+
+   },
+
+    {
+       "titulo":"captain america: civil war (2016)",
+       "calificacion":"7.8",
+       "director":"Anthony Russo, Joe Russo",
+        "actores":"Chris Evans, Robert Downey Jr., Sebastian Stan, Samuel L. Jackson, Scarlett Johansson",
+         "fecha":"1 May 2015",
+          "duracion":"2h27min",
+           "img":"images/uploads/mv4.jpg",
+           "descripcion": "Political involvement in the Avengers' affairs causes a rift between Captain America and Iron Man."
+
+    },
+    
+
+    {
+       "titulo":"spider-man: homecoming (2017)",
+       "calificacion":"7.4",
+       "director":"John Watts",
+        "actores":"Tom Holland, Michael Keaton, Robert Downey Jr.",
+         "fecha":"1 May 2015",
+          "duracion":"2h13min",
+           "img":"images/uploads/mv5.jpg",
+           "descripcion": "Peter Parker balances his life as an ordinary high school student in Queens with his superhero alter-ego Spider-Man, and finds himself on the trail of a new menace prowling the skies of New York City."
+
+    },
+
+    {
+      "titulo":"thor ragnarok (2017)",
+      "calificacion":"7.9",
+      "director":"Taika Waititi",
+       "actores":"Chris Hemsworth, Tom Hiddleston, Cate Blanchett, Mark Ruffalo",
+        "fecha":"1 May 2015",
+         "duracion":"2h13min",
+          "img":"images/uploads/mv8.jpg",
+          "descripcion": "Imprisoned on the planet Sakaar, Thor must race against time to return to Asgard and stop Ragnarök, the destruction of his world, at the hands of the powerful and ruthless villain Hela."
+
+   },
+
+   {
+      "titulo":"black panther (2018)",
+      "calificacion":"7.3",
+      "director":"Ryan Coogler",
+       "actores":"Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o",
+        "fecha":"1 May 2015",
+         "duracion":"2h14min",
+          "img":"images/uploads/mv9.jpg",
+          "descripcion": "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past."
+
+   },
+
+   {
+      "titulo":"avengers: infinity war (2018)",
+      "calificacion":"8.4",
+      "director":"Anthony Russo, Joe Russo",
+       "actores":"Robert Downey Jr., Chris Evans, Chris Hemsworth, Scarlett Johansson, Mark Ruffalo, Tom Holland, Benedict Cumberbatch, Don Cheadle, Chadwick Boseman, Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel, Bradley Cooper, Tom Hiddleston, Benedict Wong, Karen Gillian, Elizabeth Olsen, Paul Bettany, Anthony Mackie, Idris Elba, Sebastian Stan, Danai Gurira, Josh Brolin",
+        "fecha":"1 May 2015",
+         "duracion":"2h29min",
+          "img":"images/uploads/mv10.jpg",
+          "descripcion": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe."
+
+   }
+   ]
